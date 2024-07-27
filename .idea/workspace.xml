@@ -4,66 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdfc2f4f-5abe-450b-b097-46375429cd08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RCOEM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day1/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day10/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day10/LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day10/UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day2/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day2/PalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day4/KadaneAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day4/MaximumSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day4/RulerScale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day5/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day5/PalindromePartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day5/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day6/BlockedMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day6/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day6/CoinChangeCombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day6/MazePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day6/PalindromePartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day7/NKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day7/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day8/CustomLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day8/PalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advance/day9/Merge2Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day1/BasicControlFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day10/BlockedMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day10/MazeTraversalCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day10/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day2/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day2/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day2/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day3/LInkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day4/PrintAllSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day4/PrintPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day5/ArrayZigZag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day5/Kadane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day5/MaximumSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day5/NQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day5/SubarrayPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day6/ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day6/ArrayRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day6/ReverseWavePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day7/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day7/Merge2SortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day7/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day7/StringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day8/CoinChangePermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day8/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day9/CoinChangePermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day9/MazePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/day9/RulerScale.java" afterDir="false" />
-    </list>
+    <list default="true" id="fdfc2f4f-5abe-450b-b097-46375429cd08" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
@@ -90,16 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/HandsOn/RCOEM/src/basic&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/HandsOn/RCOEM/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/HandsOn/RCOEM/src/basic",
+    "onboarding.tips.debug.path": "D:/HandsOn/RCOEM/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\HandsOn\RCOEM\src\basic" />
